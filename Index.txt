@@ -4,7 +4,9 @@
 \VB.NET
 \C#\Change PDF Selection Options and Use CustomPaint
 \C#\Create Sample PDF Viewer UI Application
+\C#\Get Selection Points with PDF Viewer UI Application
 \C#\PDF Viewer Control Hosted in WPF
+\VB.NET\Get Selection Points with PDF Viewer UI Application
 \VB.NET\PDF Viewer Control Hosted in WPF
 \VB.NET\Sample PDF Viewing UI Application
 \VB.NET\Set PDF Viewer Selection Options and Use CustomPaint Event
