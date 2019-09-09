@@ -4,8 +4,10 @@
 \VB.NET
 \C#\Change PDF Selection Options and Use CustomPaint
 \C#\Create Sample PDF Viewer UI Application
+\C#\Custom MultiKey Press Event Handling
 \C#\Get Selection Points with PDF Viewer UI Application
 \C#\PDF Viewer Control Hosted in WPF
+\VB.NET\Custom MultiKey Press Event Handling
 \VB.NET\Get Selection Points with PDF Viewer UI Application
 \VB.NET\PDF Viewer Control Hosted in WPF
 \VB.NET\Sample PDF Viewing UI Application
